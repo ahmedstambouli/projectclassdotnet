@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = seance2
+build_property.RootNamespace = seance2
+build_property.ProjectDir = C:\Users\ahmed\OneDrive\Bureau\DWMM\SEMESTER2\.NET\Seance 2\seance2\seance2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ahmed\OneDrive\Bureau\DWMM\SEMESTER2\.NET\Seance 2\seance2\seance2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Genrs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Genrs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Genrs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Genrs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Genrs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Membreship/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYnJlc2hpcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Membreship/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYnJlc2hpcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Membreship/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYnJlc2hpcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Membreship/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYnJlc2hpcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Membreship/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYnJlc2hpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Movie/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/OneDrive/Bureau/DWMM/SEMESTER2/.NET/Seance 2/seance2/seance2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y7n83t04na
